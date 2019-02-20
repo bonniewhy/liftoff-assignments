@@ -5,6 +5,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
 ## Chore Wheel
+Do you ever look around your house and say, "Boy, this house is a pig stye!" And then promptly sit down on your couch the rest of the day watching television, crippled with sensory overload at the sheer amount of things you need to accomplish? Me, too! Always. Like even right now. You're in luck, though! Because I have a solution for you. It's called...
+
+##### THE CHORE WHEEL!!!!!
+
+
 
 ### Overview
 Include overview here
