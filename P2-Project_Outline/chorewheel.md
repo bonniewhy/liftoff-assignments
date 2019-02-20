@@ -23,11 +23,11 @@ I got the idea to make this based on the episode of the Office where Pam tries t
 - **SPECIFIC USER WHEELS**: Each account will have it's own custom wheel based on the categories / rooms / areas of focus that that specific user has imputted into the app. Each room has an option of having a "tiny wheel" of specific chores broken down. This will also be where we keep track of the last date it was done and how frequent this specific chore should be done, thus automatically making it not an option if you just did it yesterday. I also think it'd be cool to just have a to-do list break down as well.
 
 ### Technologies
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-JavaScript (not sure which framework)
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf templates
+- JavaScript (not sure which framework)
 
 ### What I'll Have to Learn
 I will need to learn at least the basics of JavaScript. Maybe even more. Since this is something I'd already like to do, this project would be a great way to force me to do so. I'm sure there are other things I'll need to learn, such as cookies and logging in stuff (I haven't done that with Java yet, just with Python and Flask...), and other things will be discovered along the way.

@@ -17,11 +17,11 @@ The minimum viable product will have you manually entering in your projects and 
 - **CREATE / EDIT PROJECT LIST**: Make an overall list of all projects you'd like to complete. Ability to link to a tutorial or other clippings / inpsirational images collection. Possibly an option to automatically decreciate the amount of supplies if you check off a project from your list, assuming you used those things.
 
 ### Technologies
-Java
-MySQL
-Spring Boot
-Thymeleaf templates
-Something to log in with Facebook / Google?
+- Java
+- MySQL
+- Spring Boot
+- Thymeleaf templates
+- Something to log in with Facebook / Google?
 
 ### What I'll Have to Learn
 I feel like there are a deceptive amount of things I'll have to learn to complete this project, but on the surface it seems like I know how to do most of the things already. However, since I haven't really done much with Java logging in and out, that would definitely be something I'd have to look into. I think I'd probably rather use that Google / Facebook account log in integration, though. Anyway, I definitely don't know how to do that.

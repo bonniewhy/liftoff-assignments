@@ -23,12 +23,12 @@ Let's connect. Face to face. Friend style. Friend zone. Yeah.
 - **(OPT) SEND A TEXT VIA THE APP**: It would be ultimately more convenient to be able to just press a button and have an automatic message sent saying "Let's Hang Out!" once finding out that someone has checked the same box as you.
 
 ### Technologies
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-Responsive HTML / CSS
-Some kind of telephony API?
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf templates
+- Responsive HTML / CSS
+- Some kind of telephony API?
 
 ### What I'll Have to Learn
 I will actually have to learn a lot to accomplish this application. That is not necessarily a bad thing, but there are quite a few things in here I don't know how to do. It would be very fun to learn how to integrate telecommunications in with an app and figure out how to actually build an Android / iPhone app that would not be a web app. However, I feel like the first MVP would be built as a web app form, just to ease me into the rest.
